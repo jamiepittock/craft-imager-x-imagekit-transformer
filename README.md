@@ -5,7 +5,7 @@ Also, an example of [how to make a custom transformer for Imager X](https://imag
 
 ## Requirements
 
-This plugin requires Craft CMS 4.0.0 or later, [Imager X 4.0.0](https://github.com/spacecatninja/craft-imager-x/) or later,
+This plugin requires Craft CMS 5.0.0-beta.1 or later, [Imager X 5.0.0-beta.1](https://github.com/spacecatninja/craft-imager-x/) or later,
 and an account at [ImageKit](https://imagekit.io/).
  
 ## Usage
@@ -158,6 +158,7 @@ Default params to pass to all transforms.
 ### purgeEnabled [bool]
 Default: `true`  
 Toggles automatic purging on/off.
+
 
 Price, license and support
 ---
